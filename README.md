@@ -36,7 +36,7 @@ An algorithmic implementation featuring optimal prefix-free data compression (**
 ## Usage Example
 
 ```python
-from Algo_Graph_Project import encode_text, decode_text, are_isomorphic, mapping_isomorphic
+from graph_algorithms import encode_text, decode_text, are_isomorphic, mapping_isomorphic
 
 # 1. Huffman Coding
 text = "this is an example of a huffman tree"
